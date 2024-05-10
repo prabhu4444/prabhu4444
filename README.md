@@ -8,7 +8,7 @@ As a full-stack developer, I have strong command over both front-end and back-en
 ## Education
 * Bachelor of Technology in Computer Science Engineering from The Indian Institute of Information Technology, Nagpur (IIIT Nagpur)
 
-## Experience 
+## Work Experience 
 * Software Developer Intern @ ![Amazon Pay](https://img.shields.io/badge/Amazon-ff9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 <u>
 
