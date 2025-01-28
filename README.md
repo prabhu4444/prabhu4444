@@ -1,4 +1,6 @@
-## Hey, I'm Prabhu. 
+## Hey, I'm Prabhu  <a href="https://prabhu-satyam.netlify.app"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+
+
 I am an independent fullstack developer based out of India.
 
 I specialize in creating user-friendly designs tailored for startups and small businesses, bringing a holistic approach to every project by seamlessly combining frontend aesthetics with backend functionality.
@@ -10,11 +12,12 @@ As a full-stack developer, I have strong command over both front-end and back-en
 
 ## Work Experience 
 * Software Developer Intern @ ![Amazon Pay](https://img.shields.io/badge/Amazon-ff9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
+* Fullstack Developer Intern @ ![Vizmo](https://img.shields.io/badge/Vizmo-35B5A8.svg?style=for-the-badge&logo=building&logoColor=white)
+
 <u>
 
 ## Get In Touch
-<a href="mailto:prabhusatyam4.4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/prabhu-satyam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a 
-href="https://prabhu-satyam.netlify.app"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+<a href="mailto:prabhusatyam4.4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/prabhu-satyam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 ## My Tech-stack
 ### Frontend : <br>
